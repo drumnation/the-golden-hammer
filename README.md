@@ -1,6 +1,3 @@
-# the-golden-hammer
-The Flatiron School HiveMind Tool
-
 <h1>The Golden Hammer</h1>
 <h2>Flatiron School HiveMind Tool</h2>
 
