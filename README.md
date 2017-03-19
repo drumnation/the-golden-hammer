@@ -2,7 +2,7 @@
 <h2>Flatiron School HiveMind Automation Tool</h2>
 <h4>Requires Watir and Chromedriver - The script should auto install their gems if you don't have them.</h4>
 
-<img src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.jpg" style="float: left;">
+<img style="float:left;" src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.jpg">
 
 <p>The gifted entrepreneur Steve Jobs made some
 controversial comments about innovation during his career.
