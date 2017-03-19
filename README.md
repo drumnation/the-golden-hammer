@@ -1,6 +1,6 @@
 <h1>The Golden Hammer</h1>
 <h2>Flatiron School HiveMind Automation Tool</h2>
-<h4>requires Watir and Chromedriver, script should auto install if you don't have them</h4>
+<h4>requires Watir and Chromedriver - The script should auto install their gems if you don't have them</h4>
 
 <img src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.jpg" class="left">
 
