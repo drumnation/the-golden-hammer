@@ -9,7 +9,7 @@
     gem install chromedriver-helper
 </blockquote>
 
-<p>!!! When you copy the lesson name from github remove the "-031317" or other class prefix from the end of it before you paste it into The Golden Hammer. It should look like the example.</p>
+<p>!!! When you copy the lesson name from github <strong>remove the "-031317" or other class prefix from the end of it</strong> before you paste it into The Golden Hammer. It should look like the example.</p>
 
 <p>!!! For the file path, if the lesson file is in a folder you need to copy the formatting in the example and add the "directory_name/lesson_file.rb"</p>
 </p>
