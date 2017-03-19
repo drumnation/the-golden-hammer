@@ -1,5 +1,5 @@
 <h1>The Golden Hammer</h1>
-<h2>Flatiron School HiveMind Tool</h2>
+<h2>Flatiron School HiveMind Automation Tool</h2>
 
 <img src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.jpg" class="left">
 
