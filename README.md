@@ -2,6 +2,7 @@
 <h2>Flatiron School HiveMind Automation Tool</h2>
 <h4>Requires Watir and Chromedriver - The script should auto install their gems if you don't have them.</h4>
 
+To view this on my blog <a href="https://drumnation.github.io/blog/2017/03/18/the-golden-hammer/">click here.</a>
 
 <img src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.jpg">
 
