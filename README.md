@@ -11,7 +11,7 @@
 
 <p>!!! When you copy the lesson name from github <strong>remove the "-031317" or other class prefix from the end of it</strong> before you paste it into The Golden Hammer. It should look like the example.</p>
 
-<p>!!! For the file path, if the lesson file is in a folder you need to copy the formatting in the example and add the "directory_name/lesson_file.rb"</p>
+<p>!!! For the file path, if the lesson file is in a folder you need to copy the formatting in the example and paste the "directory_name/lesson_file.rb" path</p>
 </p>
 
 To view this on my blog <a href="https://drumnation.github.io/blog/2017/03/18/the-golden-hammer/">click here.</a>
