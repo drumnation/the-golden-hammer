@@ -10,7 +10,7 @@ which he ascribed to the famous painter <a
 href="http://www.picasso.fr/us/picasso_page_index.php"
 target="_blank">Pablo Picasso</a>:</p>
 
-<img src="https://drumnation.github.io/images/the-golden-hammer/pablo_picasso_quote.png">
+<img src="https://drumnation.github.io/images/the-golden-hammer/pablo_picasso_quote.jpeg">
 
 <p>I would happen to agree. With a <a
 href="http://www.wcupa.edu/arts-humanities/music/musicTheory/undergraduate.aspx"
