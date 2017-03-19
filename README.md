@@ -1,7 +1,7 @@
 <h1>The Golden Hammer</h1>
 <h2>Flatiron School HiveMind Tool</h2>
 
-<img src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.png" class="left">
+<img src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.jpg" class="left">
 
 <p>The gifted entrepreneur Steve Jobs made some
 controversial comments about innovation during his career.
@@ -38,7 +38,7 @@ resulting products often become beautiful diverse blends of
 others' fresh and original ideas, neatly curated by the
 artist.</p>
 
-<img src="https://drumnation.github.io/images/the-golden-hammer/einstein_quote.png">
+<img src="https://drumnation.github.io/images/the-golden-hammer/einstein_quote.jpg">
 
 <p>Every answer to a Flatiron question becomes a tool we
 will use to make our future programs better so why not learn
@@ -68,8 +68,7 @@ really smart people.</p>
 
 <img src="https://drumnation.github.io/images/the-golden-hammer/chris_hanning.jpg" class="left">
 
-<p>My <a
-href="https://www.wcupa.edu/arts-humanities/music/appliedMusic/cHanning.aspx"
+<p>My <a href="https://www.wcupa.edu/arts-humanities/music/appliedMusic/cHanning.aspx"
 target="_blank">percussion instructor</a> taught us to never
 practice mistakes. Always slow the metronome down until you
 can play it perfect or you're just teaching yourself to play
