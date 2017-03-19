@@ -1,7 +1,7 @@
 <h1>The Golden Hammer</h1>
 <h2>Flatiron School HiveMind Tool</h2>
 
-<img src="/images/the-golden-hammer/steve_jobs_quote.png" class="left">
+<img src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.png" class="left">
 
 <p>The gifted entrepreneur Steve Jobs made some
 controversial comments about innovation during his career.
@@ -10,7 +10,7 @@ which he ascribed to the famous painter <a
 href="http://www.picasso.fr/us/picasso_page_index.php"
 target="_blank">Pablo Picasso</a>:</p>
 
-<img src="/images/the-golden-hammer/pablo_picasso_quote.png">
+<img src="https://drumnation.github.io/images/the-golden-hammer/pablo_picasso_quote.png">
 
 <p>I would happen to agree. With a <a
 href="http://www.wcupa.edu/arts-humanities/music/musicTheory/undergraduate.aspx"
@@ -22,7 +22,7 @@ aesthetic you hear in your mind. A score is a program that
 runs live humans in synchronization instead of a
 computer.</p>
 
-<img src="/images/the-golden-hammer/music-library.jpg">
+<img src="https://drumnation.github.io/images/the-golden-hammer/music-library.jpg">
 
 <p>I spent hours in the music library poring over orchestral
 scores while listening to their recordings. It taught me to
@@ -38,7 +38,7 @@ resulting products often become beautiful diverse blends of
 others' fresh and original ideas, neatly curated by the
 artist.</p>
 
-<img src="/images/the-golden-hammer/einstein_quote.png">
+<img src="https://drumnation.github.io/images/the-golden-hammer/einstein_quote.png">
 
 <p>Every answer to a Flatiron question becomes a tool we
 will use to make our future programs better so why not learn
@@ -66,7 +66,7 @@ first week.  I credit this to the smarts of the 0217 class
 because I've been all over their answers and they have some
 really smart people.</p>
 
-<img src="/images/the-golden-hammer/chris_hanning.jpg" class="left">
+<img src="https://drumnation.github.io/images/the-golden-hammer/chris_hanning.jpg" class="left">
 
 <p>My <a
 href="https://www.wcupa.edu/arts-humanities/music/appliedMusic/cHanning.aspx"
