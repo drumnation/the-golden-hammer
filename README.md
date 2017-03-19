@@ -2,6 +2,18 @@
 <h2>Flatiron School HiveMind Automation Tool</h2>
 <h4>Requires Watir and Chromedriver - The script should auto install their gems if you don't have them.</h4>
 
+</p>!!! If they don't install on their own and there is an error, type these two commands into your console to install the required libraries.</p>
+
+<blockquote>
+    gem install watir<br />
+    gem install chromedriver-helper
+</blockquote>
+
+<p>!!! When you copy the lesson name from github remove the "-031317" or other class prefix from the end of it before you paste it into The Golden Hammer. It should look like the example.</p>
+
+<p>!!! For the file path, if the lesson file is in a folder you need to copy the formatting in the example and add the "directory_name/lesson_file.rb"</p>
+</p>
+
 To view this on my blog <a href="https://drumnation.github.io/blog/2017/03/18/the-golden-hammer/">click here.</a>
 
 <img src="https://drumnation.github.io/images/the-golden-hammer/steve_jobs_quote.jpg">
