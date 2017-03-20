@@ -1,7 +1,7 @@
 <h1>The Golden Hammer</h1>
 <h2>Flatiron School HiveMind Automation Tool</h2>
 
-<iframe src="//giphy.com/embed/3o7buivHVZTfwV6Qr6" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/3o7buivHVZTfwV6Qr6">via GIPHY</a></p>
+<img src="//giphy.com/embed/3o7buivHVZTfwV6Qr6">
 
 <h4>Requires Watir and Chromedriver - The script should auto install their gems if you don't have them.</h4>
 
