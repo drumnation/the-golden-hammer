@@ -59,7 +59,7 @@ def great_artists_steal(lesson_name, class_id, lesson_filename)
 
     urls_hash.each do |name, file_url|
       def output_to_file(file_url)
-        @answer_array.each do |answer|
+        @answer_array.shuffle.each do |answer|
           if $lesson_name + ".rb"
             open($lesson_name + ".rb", 'a') {|file|
               file.puts "#{answer}"
@@ -161,7 +161,7 @@ def golden_hammer_cli
     puts <<~HEREDOC
       ************************    SUPER SMASH!!!!! END COHORT #{class_id}  ******************************
 
-                          For all the goodness check for #{$lesson_filename.split("/")[1]}
+                      For all the goodness check for #{$lesson_filename.split("/")[1]}
 
       ***************************************************************************************************
       HEREDOC
