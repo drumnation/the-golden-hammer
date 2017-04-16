@@ -1,5 +1,5 @@
 <h1>The Golden Hammer</h1>
-<h2>Quickly generate a file containing every student's answer to a selected lab by filename.</h2>
+<h2>Quickly generate a file containing every student's answer (last 4 cohorts) to a selected lab by filename.</h2>
 
 ![](https://github.com/drumnation/the-golden-hammer/blob/master/the-golden-hammer-demo.gif)
 
