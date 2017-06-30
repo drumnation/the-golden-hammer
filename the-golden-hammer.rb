@@ -104,27 +104,39 @@ def golden_hammer_cli
       |          SELECT A FLATIRON CLASS          |
       ---------------------------------------------
       |                                           |
-      |  1. Bask in the ancient wisdom of 11-16   |
-      |  2. Experience the evil genius of 02-17   |
-      |  3. Learn from Eyes on the Prys  03-13-17 |
-      |  4. All classes                           |
+      |  1. Explode centuries of codes    06-16   |
+      |  2. Find all the answers to life  07-16   |
+      |  3. The search for meaning        09-16   |
+      |  4. Bask in the ancient wisdom of 11-16   |
+      |  5. Experience the evil genius of 02-17   |
+      |  6. Learn from Eyes on the Prys  03-13-17 |
+      |  7. All classes                           |
       ---------------------------------------------
       |             Press Q to Quit               |
       ---------------------------------------------
       HEREDOC
     case gets.strip.upcase
     when "1"
-      class_id = "1116"
+      class_id = "0616"
       get_lesson_name_path_run(class_id)
     when "2"
-      class_id = "0217"
+      class_id = "0716"
       get_lesson_name_path_run(class_id)
     when "3"
-      class_id = "031317"
+      class_id = "0916"
       get_lesson_name_path_run(class_id)
     when "4"
-      flatiron_cohorts = ["0217", "031317", "1116"]
-      flatiron_cohorts.each do |cohort|
+      class_id = "1116"
+      get_lesson_name_path_run(class_id)
+    when "5"
+      class_id = "0217"
+      get_lesson_name_path_run(class_id)
+    when "6"
+      class_id = "031317"
+      get_lesson_name_path_run(class_id)
+    when "7"
+      flatiron_cohorts = ["0217", "031317", "1116", "0616", "0716", "0916"]
+      flatiron_cohorts.shuffle.each do |cohort|
         get_lesson_name_path_run(cohort)
         $typed_lesson = false
       end
@@ -143,7 +155,7 @@ def golden_hammer_cli
       puts ""
       puts "> Enter the relative path to the solution file on GitHub."
       puts "ex. lib/song.rb\n"
-      @lesson_filename = gets.strip.downcase
+      @lesson_filename = gets.strip
     end
 
     puts `clear`
