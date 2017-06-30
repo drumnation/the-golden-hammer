@@ -1,5 +1,5 @@
 <h1>The Golden Hammer</h1>
-<h2>Flatiron School HiveMind Automation Tool</h2>
+<h2>Expand your coding vocabulary by quickly generating a file containing every student's answer from the last 4 Flatiron cohorts, selecting by lab and filename.</h2>
 
 ![](https://github.com/drumnation/the-golden-hammer/blob/master/the-golden-hammer-demo.gif)
 
